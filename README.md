@@ -21,14 +21,14 @@ Hello, I'm **Mario Ciccioni**, student at University of Bologna enrolled in Engi
 
 ## 🔧 Technologies and Tools
 
-- Programming languages: Python, Java, C, SQL, PHP, JS
-- IDE/Platform: Visual Studio, Eclipse, Jupyter, Anaconda
+- Main programming languages: Python, Java, C#
+- IDE/Platform: VS Code, Visual Studio, Eclipse, Jupyter, Anaconda
 - Databases: MySQL
-- Other skills: Generative AI, Machine Learning, Deep Learning, Neural Networks, Prompt Engineering/Prompt Tuning, Web Development(HTML, CSS, PHP, JS), Arduino programming
+- Other skills: Generative AI, Machine Learning, Deep Learning, Neural Networks, Prompt Engineering/Prompt Learning, Web Development(HTML, CSS, PHP, JS), Arduino programming
 
 ## 🌱 Currently Learning
 
-I'm exploring the technique of Prompt Engineering/Prompt Tuning using the latest LLMs out there (thesis in this area in progress)
+I'm exploring the technique of Prompt Engineering/Prompt Learning using the latest LLMs out there (thesis in this area in progress)
 
 ## 📫 Contact Me
 
