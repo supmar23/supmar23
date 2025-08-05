@@ -23,7 +23,7 @@ Hello, I'm **Mario Ciccioni**, graduate in Engineering and Computer Science at U
 
 - Natural Language Processing, Natural Language Understanding, Prompt Learning, Machine Learning, Deep Learning, Neural Networks
 
-## 🌱 Interests
+## 🌱 Skills
 
 - Automatic Prompt Learning techniques, LLMs tasks adaptation  
 
