@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 
 ### Welcome to my GitHub profile! 👋
 
-Hello, I'm **Mario Ciccioni**, student at University of Bologna enrolled in Engineering and Computer Science. Currently, I'm focusing on Artificial Intelligence world.
+Hello, I'm **Mario Ciccioni**, graduate in Engineering and Computer Science at University of Bologna. Currently, I'm focusing on NLP/NLU world.
 
-## 🔧 Technologies and Tools
+## 💡 Interests
 
-- Main programming languages: Python, Java, C#
-- IDE/Platform: VS Code, Visual Studio, Eclipse, Jupyter, Anaconda
-- Databases: MySQL
-- Other skills: Generative AI, Machine Learning, Deep Learning, Neural Networks, Prompt Engineering/Prompt Learning, Web Development(HTML, CSS, PHP, JS), Arduino programming
+- Natural Language Processing, Natural Language Understanding, Prompt Learning, Machine Learning, Deep Learning, Neural Networks
 
-## 🌱 Currently Learning
+## 🌱 Interests
 
-I'm exploring the technique of Prompt Engineering/Prompt Learning using the latest LLMs out there (thesis in this area in progress)
+- Automatic Prompt Learning techniques, LLMs tasks adaptation  
+
+## 🧾 Research
+
+- Magic Mirror on the Wall, Which is the Fairest Prompt of All? A Survey on Automatic Prompt Learning. ECAI-2025 (23% acceptance rate)
 
 ## 📫 Contact Me
 
